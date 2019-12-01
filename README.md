@@ -1,5 +1,6 @@
 # IRNet
 Code for our ACL'19 accepted paper: [Towards Complex Text-to-SQL in Cross-Domain Database with Intermediate Representation](https://arxiv.org/pdf/1905.08205.pdf)
+
 You could find the code at this [website](https://github.com/microsoft/IRNet) https://github.com/microsoft/IRNet
 
 ## Citation
